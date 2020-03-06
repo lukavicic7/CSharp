@@ -1,0 +1,11 @@
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Vjezba_1\bin\Debug\netcoreapp3.1\Vjezba_1.exe
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Vjezba_1\bin\Debug\netcoreapp3.1\Vjezba_1.deps.json
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Vjezba_1\bin\Debug\netcoreapp3.1\Vjezba_1.runtimeconfig.json
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Vjezba_1\bin\Debug\netcoreapp3.1\Vjezba_1.runtimeconfig.dev.json
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Vjezba_1\bin\Debug\netcoreapp3.1\Vjezba_1.dll
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Vjezba_1\bin\Debug\netcoreapp3.1\Vjezba_1.pdb
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Vjezba_1\obj\Debug\netcoreapp3.1\Vjezba_1.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Vjezba_1\obj\Debug\netcoreapp3.1\Vjezba_1.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Vjezba_1\obj\Debug\netcoreapp3.1\Vjezba_1.AssemblyInfo.cs
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Vjezba_1\obj\Debug\netcoreapp3.1\Vjezba_1.dll
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Vjezba_1\obj\Debug\netcoreapp3.1\Vjezba_1.pdb

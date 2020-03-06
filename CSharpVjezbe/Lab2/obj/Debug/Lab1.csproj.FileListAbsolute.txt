@@ -1,0 +1,5 @@
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Lab2\bin\Debug\Lab1.exe
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Lab2\bin\Debug\Lab1.pdb
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Lab2\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Lab2\obj\Debug\Lab1.exe
+C:\Users\Luka\Desktop\IT\3.godina\C#\CSharpVjezbe\Lab2\obj\Debug\Lab1.pdb
